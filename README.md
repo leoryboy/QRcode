@@ -16,6 +16,7 @@ Este é um pequeno projeto criado como parte do meu treinamento em **HTML** e **
 
 Projeto exibindo um cartão branco centralizado com um QR Code e dois textos explicativos abaixo, sobre aprimorar habilidades de front-end através do site Frontend Mentor.
 
+🔗 **[Clique aqui para acessar o site](https://leoryboy.github.io/QRcode/)**
 ---
 
 ## 💻 Tecnologias Utilizadas
